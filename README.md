@@ -1,5 +1,7 @@
 # Asteroid
 
+Este código foi apenas adaptado por mim para versões recentes do Android Studio... os créditos originais estão descritos abaixo
+
 Asteroid is a simple Android game about avoiding incoming asteroids. It is made entirely using the Android Canvas API. All in-game graphics are either stored as vector drawables or drawn during runtime.
 
 [![Build Status](https://travis-ci.com/fennifith/Asteroid.svg?branch=master)](https://travis-ci.com/fennifith/Asteroid)
