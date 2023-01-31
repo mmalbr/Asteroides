@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Aerolitossss</string>
+    <string name="app_name">Aerolitos</string>
     <string name="app_id">856042771949</string>
     <string name="hint_start">Toque para iniciar</string>
     <string name="score_high">Recorde: %d</string>
