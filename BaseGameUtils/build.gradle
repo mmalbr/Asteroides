@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion '30.0.3'
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 30
+    }
+
+    compileOptions {
+        encoding = 'UTF-8'
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    namespace 'com.google.example.games.basegameutils'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.4.0-alpha01'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    implementation 'com.google.android.gms:play-services-games:21.0.0' //11.6.0, 15.0.0, 16.0.0
+    implementation 'com.google.android.gms:play-services-plus:17.0.0' //11.6.0, 15.0.0, 16.0.0
+}
