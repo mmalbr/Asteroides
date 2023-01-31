@@ -1,8 +1,8 @@
 # Asteroid
 
-Este código foi apenas adaptado por mim para versões recentes do Android Studio...
-Foi adicionado também Admob para monetização
-Os créditos originais deste código estão descritos abaixo
+Este código foi apenas adaptado por mim para versões recentes do Android Studio.
+Foi adicionado também Admob para monetização.
+Os créditos originais deste código estão descritos abaixo.
 
 
 
